@@ -1,0 +1,10 @@
+python-binance
+binance-connector
+binance-futures-connector
+matplotlib
+seaborn
+pandas
+tk
+mplfinance
+pyTelegramBotAPI
+moviepy
